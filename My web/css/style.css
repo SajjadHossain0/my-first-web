@@ -1,0 +1,184 @@
+*{
+    box-sizing: border-box;
+}
+
+body{ 
+    margin:0;
+    text-align:center;
+    
+    
+}
+.part-1{
+    background-color: #7FB5FF;
+    
+    width: 100%;
+    
+    
+}
+.name{
+    text-align: center;
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+}
+.p{
+    text-align: center;
+    font-family: 'Zen Loop', cursive;
+    font-size: 35px;
+    margin-bottom: 0px;
+
+}
+.cloud-1{
+    height: 100px;
+    width: 150px;
+    position: relative;
+    top: 10px;
+    left: 25%;
+    
+}
+.cloud-2{
+    height: 100px;
+    width: 150px;
+    position: relative;
+    left: 7%;
+    bottom: 500px;
+}
+.mountain{
+    height: 500px;
+    width: 900px;
+    position: relative;
+    top: 121px;
+}
+
+.profile{
+    height: 250px;
+    position: relative;
+    top: 100px;
+
+}
+.h2{
+    position: relative;
+    top: 120px;
+    font-family: serif;
+    font-size: 30px;
+    color: #019267;
+
+}
+.p2{
+    position: relative;
+    top: 120px;
+    margin: 0px;
+    font-size: 20px;
+}
+.hr1{
+    border-top: dotted 5px;
+    width: 60px;
+    color: gray;
+    position: relative;
+    top: 160px;
+}
+.h1{
+    margin: 0px;
+    position: relative;
+    top: 190px;
+    font-size: 50px;
+    color: #019267;
+}
+.skill{
+    margin: 0px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 300px;
+    left: 15%;
+    float: left;
+}
+.p3{
+    margin: 0px;
+    position: relative;
+    top: 320px;
+    left: 18%;
+    text-align: left;
+}
+.bold{
+    font-size: 30px;
+}
+
+.develop{
+    margin: 0px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 500px;
+    right: 20%;
+    float: right;
+}
+.p4{
+    margin: 0px;
+    position: relative;
+    top: 520px;
+    right: 24%;
+    text-align: right;
+}
+.hr2{
+    border-top: dotted 5px;
+    width: 60px;
+    color: gray;
+    position: relative;
+    top: 670px;
+}
+.h1-2{
+    margin: 0px;
+    position: relative;
+    top: 720px;
+    font-size: 50px;
+    color: #019267;
+}
+.h3{
+    margin: 0px;
+    position: relative;
+    top: 750px;
+    left: 6%;
+    color: #019267;
+}
+.p5{
+    position: relative;
+    top: 750px;
+    text-align: center;
+}
+.button-1{
+    position: relative;
+    top: 840px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    height: 50px;
+    width:250px;
+    letter-spacing: 4px;
+    font-size: 25px;
+    background-color: #019267;
+    border: none;
+    color: white;
+    
+}
+.part-5{
+    margin: 0px;
+    position: relative;
+    top: 950px;
+    text-align: center;
+    background-color: #019267;
+    height: 70px;
+
+}
+.part-5 a{
+    margin-right: 40px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    position:relative;
+    top: 25px;
+    padding: 24px;
+}
+a:hover{
+    background-color: rgb(165, 163, 163);
+}
